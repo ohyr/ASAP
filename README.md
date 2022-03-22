@@ -20,17 +20,16 @@
 
 ---
 
-## :+1: Member
+## 🙆‍♂️ Member
 
 </br>
-📌 click 🖼️
 <table style="border:1px solid #4444">
 <tr> 
-<td align="center" width="120px"><a href="https://github.com/dltkddbs"><img src="https://avatars.githubusercontent.com/u/38884368?v=4" width="100px"></a></td>
-<td align="center" width="120px"><a href="https://github.com/ohyr"><img src="https://avatars.githubusercontent.com/u/18694745?v=4" width="100px"></a></td>
-<td align="center" width="120px"><a href="https://github.com/djs02027"><img src="https://avatars.githubusercontent.com/u/42508120?v=4" width="100px"></a></td>
-<td align="center" width="120px"><a href="https://github.com/alskal1"><img src="https://avatars.githubusercontent.com/u/48577694?v=4" width="100px"></a></td>
-<td align="center" width="120px"><a href="https://github.com/EoJin-Kim"><img src="https://avatars.githubusercontent.com/u/62640679?v=4" width="100px"></a></td>
+<td align="center" width="200px"><a href="https://github.com/dltkddbs"><img src="https://avatars.githubusercontent.com/u/38884368?v=4" width="180px"></a></td>
+<td align="center" width="200px"><a href="https://github.com/ohyr"><img src="https://avatars.githubusercontent.com/u/18694745?v=4" width="180px"></a></td>
+<td align="center" width="200px"><a href="https://github.com/djs02027"><img src="https://avatars.githubusercontent.com/u/42508120?v=4" width="180px"></a></td>
+<td align="center" width="200px"><a href="https://github.com/alskal1"><img src="https://avatars.githubusercontent.com/u/48577694?v=4" width="180px"></a></td>
+<td align="center" width="200px"><a href="https://github.com/EoJin-Kim"><img src="https://avatars.githubusercontent.com/u/62640679?v=4" width="180px"></a></td>
 </tr>
 <tr style="font-weight:bold">
 <td align="center"> 이상윤 </td>
